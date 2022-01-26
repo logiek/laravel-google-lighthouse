@@ -1,0 +1,29 @@
+{
+    "name": "logiek/laravel-google-lighthouse",
+    "description": "This package provides a wrapper for Google Lighthouse to audit the quality of web pages with Laravel.",
+    "keywords": ["laravel", "google", "lighthouse"],
+    "license": "MIT",
+    "require": {
+        "php": "^8.0",
+        "illuminate/config": "^8.74",
+        "illuminate/support": "^8.74",
+        "symfony/process": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Logiek\\GoogleLighthouse\\": "src/"
+        }
+    },
+    "autoload-dev": {
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Logiek\\GoogleLighthouse\\GoogleLighthouseServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
