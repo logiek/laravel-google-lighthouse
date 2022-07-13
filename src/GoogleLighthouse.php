@@ -105,6 +105,7 @@ class GoogleLighthouse
         $process = Process::fromShellCommandline($this->getCommand($url));
 
         $process
+            ->setWorkingDirectory(base_path())
             ->setTimeout(config('google-lighthouse.timeout'))
             ->run();
 
