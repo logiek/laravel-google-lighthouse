@@ -1,3 +1,6 @@
+⚠️ THIS PACKAGE IS NO LONGER MAINTAINED ⚠️  
+This repository has been discontinued and is no longer receiving updates or support.  
+
 # laravel-google-lighthouse
 
 [![Latest Stable Version](https://poser.pugx.org/logiek/laravel-google-lighthouse/v/stable)](https://packagist.org/packages/logiek/laravel-google-lighthouse) [![Total Downloads](https://poser.pugx.org/logiek/laravel-google-lighthouse/downloads)](https://packagist.org/packages/logiek/laravel-google-lighthouse) [![License](https://poser.pugx.org/logiek/laravel-google-lighthouse/license)](https://packagist.org/packages/logiek/laravel-google-lighthouse) [![PHP Version Require](http://poser.pugx.org/logiek/laravel-google-lighthouse/require/php)](https://packagist.org/packages/logiek/laravel-google-lighthouse)
